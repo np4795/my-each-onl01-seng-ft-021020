@@ -11,7 +11,7 @@ end
 
 
 
-def hello(tas)
+def hello(array)
   i = 0
   collection = []
   while i < array.length
